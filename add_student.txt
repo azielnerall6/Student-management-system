@@ -1,0 +1,8 @@
+This feature allows administrators to register new students.
+
+Required Information:
+- Full Name
+- Email Address
+- Phone Number
+- Matriculation Number
+- Department
